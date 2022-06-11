@@ -24,7 +24,7 @@
 ### firewall inside network namespace
 `sudo ip netns exec ETHC sudo ufw status`
 ### Delete namespace
-`sudo ip netns del linuxhint`
+`sudo ip netns del ETHC`
 
 
 ## Mininet Basics
