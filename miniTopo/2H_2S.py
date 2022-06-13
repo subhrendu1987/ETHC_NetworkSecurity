@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+''' Example for Mininet API '''
 from mininet.net import Mininet
 from mininet.node import Controller, RemoteController, OVSController
 from mininet.node import CPULimitedHost, Host, Node
