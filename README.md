@@ -35,4 +35,5 @@ Open a Terminal in the guest "Mininet VM" and use the commands one after another
 	- `sudo apt update`
 	- `sudo apt install openssh-server`
 	- `sudo service sshd restart`
-	
+* Open "Terminal" in host and use the following command to login to the running "Guest"
+	-`ssh mininet@127.0.0.1 -p 2222`
