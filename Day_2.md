@@ -7,4 +7,5 @@
 `sudo mn -c`
 ### Topology
 * `sudo mn --topo=linear,3`
+* `sudo mn --topo=single,3`
 * `sudo mn --topo=tree,depth=3,fanout=2`
